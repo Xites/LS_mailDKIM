@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <metadata>
+        <name>mailDKIM</name>
+        <type>plugin</type>
+        <creationDate>2020-02-02</creationDate>
+        <last_update>2020-02-02</last_update>
+        <author>Eric Wagener</author>
+        <authorUrl>https://www.xites.nl</authorUrl>
+        <version>1.0.0</version>
+        <license>MIT</license>
+        <description><![CDATA[Add DKIM signature to mail.]]></description>
+    </metadata>
+
+    <compatibility>
+        <version>4.0</version>
+    </compatibility>
+
+    <updaters disabled="disabled">
+    </updaters>
+</config>
