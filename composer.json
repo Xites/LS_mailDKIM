@@ -6,5 +6,7 @@
 			"url": "https://github.com/Xites/LS_mailDKIM.git" 
 		}
 	],
-	"require-all": true
+	"require": {
+        "Xites/LS_mailDKIM": "*"
+    }
 }
