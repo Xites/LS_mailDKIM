@@ -1,0 +1,10 @@
+{
+	"name": "LS_mailDKIM",
+	"repositories": [
+		{ 
+			"type": "vcs", 
+			"url": "https://github.com/Xites/LS_mailDKIM.git" 
+		}
+	],
+	"require-all": true
+}
