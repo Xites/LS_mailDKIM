@@ -3,7 +3,7 @@
 	"repositories": [
 		{ 
 			"type": "vcs", 
-			"url": "https://github.com/Xites/LS_mailDKIM.git" 
+			"url": "https://github.com/Xites/LS_mailDKIM" 
 		}
 	],
 	"require-all": true
